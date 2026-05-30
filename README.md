@@ -12,7 +12,7 @@ I'm a passionate **MERN stack developer** and **Java enthusiast** with a focus o
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHADOW-RTX&show_icons=true&theme=codeSTACKr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOW-RTX&theme=codeSTACKr&hide_border=false&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RTX-ADITYA&show_icons=true&theme=codeSTACKr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTX-ADITYA&theme=codeSTACKr&hide_border=false&langs_count=5" />
 </p>
 
