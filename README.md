@@ -1,18 +1,41 @@
-<h1 align="left">Hi, I’m Aditya!</h1>
+# Hi 👋, I'm Aditya Kumar
 
-I'm a passionate **MERN stack developer** and **Java enthusiast** with a focus on **Data Structures and Algorithms (DSA)**. I'm actively exploring and contributing to the open-source community, eager to learn, collaborate, and grow.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=MERN+Stack+Developer;Java+Developer;DSA+Enthusiast;Open+Source+Learner;Always+Learning+New+Things" alt="Typing SVG" />
 
-
-
-### Reach out to me:
-[![Email](https://img.shields.io/badge/Email-adityakumar80802@gmail.com-blue)](mailto:adityakumar80802@gmail.com) 
+### 🚀 About Me
 
 
+- 💻 MERN Stack Developer
+- ☕ Java Developer
+- 📚 Passionate about Data Structures & Algorithms
+- 🌱 Currently learning Backend Development & System Design
+- 🤝 Open to collaboration on interesting projects
+- ⚡ Building projects and improving every day
 
+---
 
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RTX-ADITYA&show_icons=true&theme=codeSTACKr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTX-ADITYA&theme=codeSTACKr&hide_border=false&langs_count=5" />
+  <a href="mailto:adityakumar80802@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aditya-kumar-9b196a2a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/RTX-ADITYA">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RTX-ADITYA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTX-ADITYA&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+---
