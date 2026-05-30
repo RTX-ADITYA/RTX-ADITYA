@@ -35,7 +35,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RTX-ADITYA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTX-ADITYA&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=RTX-ADITYA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RTX-ADITYA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
----
